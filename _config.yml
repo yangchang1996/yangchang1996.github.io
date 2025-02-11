@@ -23,13 +23,13 @@ repository               : "yangchang1996/yangchang1996.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Chang Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Chang Yang received the B.E. and M.E. degrees in electrical engineering in 2018 and 2021 respectively, from the School of Electrical Engineering, Xi’an Jiaotong University, Xi’an, China, where he is currently working toward the Ph.D. degree in electrical engineering. His research interests include power system operation and control, renewable energy integration, and energy storage systems."
+  location         : "Xi'an, China"
+  employer         : "Xi'an Jiaotong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yang.xjtu2014@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
