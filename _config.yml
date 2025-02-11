@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Chang Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Chang Yang received the B.E. and M.E. degrees in electrical engineering in 2018 and 2021 respectively, from the School of Electrical Engineering, Xi’an Jiaotong University, Xi’an, China, where he is currently working toward the Ph.D. degree in electrical engineering. His research interests include power system operation and control, renewable energy integration, and energy storage systems."
+  bio              : #
   location         : "Xi'an, China"
   employer         : "Xi'an Jiaotong University"
   uri              : # URL
