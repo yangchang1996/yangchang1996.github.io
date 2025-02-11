@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Chang Yang"
+title                    : "HOME PAGE"
 title_separator          : "-"
 name                     : &name "Chang Yang"
 description              : &description "personal description"
