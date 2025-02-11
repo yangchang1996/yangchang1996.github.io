@@ -3,9 +3,9 @@ title: "Distributed Model-Free Adaptive Control Strategy for Hybrid AC/DC Microg
 collection: publications
 category: manuscripts
 permalink: /publication/2023-11-23-paper-distributed-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'A distributed control strategy (DCS) is an efﬁ-cient way to realize power sharing among distributed gen-erators (DGs) and restore the voltage deviation caused by droop control. However, there are several limitations in the traditional strategy of hybrid ac/dc microgrid (MG), such as the heavy communication burden and sensitivity to the working conditions. In this article, a distributed model-free adaptive control strategy (DMFAC) is proposed with an event-triggered (ET) mechanism. A uniﬁed control frame-work of hybrid MG is established and the ET-DMFAC can operate within it to realize multiple control strategies simul-taneously. The dynamic linearization parameters of hybrid MG are estimated online to reﬂect the working condition, and an ET mechanism is designed to reduce the communi-cation burden. The stability of ET-DMFAC is analyzed with the discrete Lyapunov theory and experiments are carried out to verify the effectiveness of the proposed ET-DMFAC strategy under different operating conditions. The outper-formance of ET-DMFAC is demonstrated by comparing it with many existing DCS of hybrid AC/DC MG.'
 date: 2023-11-23
-venue: 'Journal 1'
+venue: 'IEEE Transactions on Industrial Electronics'
 slidesurl: 
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
