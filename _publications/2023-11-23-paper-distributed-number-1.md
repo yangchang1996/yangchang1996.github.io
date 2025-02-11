@@ -7,8 +7,8 @@ excerpt: 'A distributed control strategy (DCS) is an efﬁ-cient way to realize 
 date: 2023-11-23
 venue: 'IEEE Transactions on Industrial Electronics'
 slidesurl: 
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://yangchang1996.github.io/files/paper1.pdf'
+citation: 'C. Yang, T. Zheng, M. Bu, P. Li and J. M. Guerrero, "Distributed Model-Free Adaptive Control Strategy for Hybrid AC/DC Microgrid With Event-Triggered Mechanism," in <i>IEEE Transactions on Industrial Electronics</i>, vol. 71, no. 8, pp. 9077-9086, Aug. 2024.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
