@@ -7,7 +7,7 @@ excerpt: 'In a hybrid AC/DC microgrid (MG), power quality issues arise when an u
 date: 2024-09-11
 venue: 'IEEE Transactions on Smart Grid'
 slidesurl: 
-paperurl: 'http://yangchang1996.github.io/files/paper2.pdf'
+paperurl: 'http://yangchang1996.github.io/files/paper3.pdf'
 citation: 'C. Yang, T. Zheng, Y. Song, J. Hu and J. M. Guerrero, "Coordinated Control Strategy of Hybrid AC/DC Microgrid for Power Quality Improvement Under Unbalanced AC Conditions," in <i>IEEE Transactions on Smart Grid</i>, doi: 10.1109/TSG.2024.3458388.'
 ---
 
