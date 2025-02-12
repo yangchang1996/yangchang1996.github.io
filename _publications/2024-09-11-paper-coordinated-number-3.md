@@ -2,7 +2,7 @@
 title: "Coordinated Control Strategy of Hybrid AC/DC Microgrid for Power Quality Improvement Under Unbalanced AC Conditions"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-09-11-paper-communication-number-3
+permalink: /publication/2024-09-11-paper-coordinated-number-3
 excerpt: 'In a hybrid AC/DC microgrid (MG), power quality issues arise when an unbalanced load connects to the AC subgrid, which are not confined to the AC subsystem but extend to affect the DC subsystem as well. This paper investigates the potential power quality issues caused by AC imbalance, including DC voltage fluctuation and AC current harmonics. Multiple control objectives are developed, aiming to eliminate DC fluctuation, reduce AC distortion and imbalance, and achieve negative sequence current sharing among distributed generations in the AC subgrid. To realize these control objectives, a two-layer coordinated control strategy is proposed. The first layer involves local interlinking converter (IC) control to improve the power quality of the DC subgrid, while the second layer focuses on distributed unbalance compensation control to improve the power quality of the AC subgrid. Finally, several experiments are conducted to verify the effectiveness of the proposed control strategy.'
 date: 2024-09-11
 venue: 'IEEE Transactions on Smart Grid'
