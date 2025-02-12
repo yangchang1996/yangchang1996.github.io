@@ -8,9 +8,9 @@ date: 2024-09-11
 venue: 'IEEE Transactions on Smart Grid'
 slidesurl: 
 paperurl: 'http://yangchang1996.github.io/files/paper2.pdf'
-citation: 'C. Yang, T. Zheng, Y. Song, J. Hu and J. M. Guerrero, "Coordinated Control Strategy of Hybrid AC/DC Microgrid for Power Quality Improvement Under Unbalanced AC Conditions," in <i>IEEE Transactions on Smart Grid, doi: 10.1109/TSG.2024.3458388.'
+citation: 'C. Yang, T. Zheng, Y. Song, J. Hu and J. M. Guerrero, "Coordinated Control Strategy of Hybrid AC/DC Microgrid for Power Quality Improvement Under Unbalanced AC Conditions," in <i>IEEE Transactions on Smart Grid</i>, doi: 10.1109/TSG.2024.3458388.'
 ---
 
 Abstract - Distributed secondary control (DSC) is an efficient way to realize power sharing among distributed generators (DGs) and restore the voltage deviation caused by droop control. Traditional DSC strategy of a hybrid AC/DC microgrid (MG) needs multiple communication links between interlinking converter (IC) and DGs, which makes the communication network complex and affects DG’s plug&play capability. In this paper, a communication-saving DSC strategy of hybrid AC/DC MG is proposed. Local communications in both ac-MG and dc-MG plus an intercommunication between them are designed for power reference adjustment. Accurate power sharing among all of the DGs can be realized without communicating with IC. A small-signal model of the hybrid system is established for stability analysis and the range of control parameters can be adjusted based on this model. Experiments are carried out to demonstrate the proposed DSC strategy under different operating conditions.
 
-Keywords - Communication-saving, distributed secondary control (DSC), hybrid AC/DC microgrid, small-signal analysis.
+Keywords - distributed control, hybrid AC/DC microgrid, power quality improvement, unbalance compensation
